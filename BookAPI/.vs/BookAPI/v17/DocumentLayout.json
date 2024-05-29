@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\trainning\\day 3 book\\BookAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|f:\\trainning\\day 3 book\\bookapi\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|f:\\trainning\\day 3 book\\bookapi\\bookapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\datalayer\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|f:\\trainning\\day 3 book\\bookapi\\bookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\datalayer\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817E254C-9C7F-49B7-A03B-8EEB7F134AA6}|ServiceLayer\\ServiceLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\servicelayer\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817E254C-9C7F-49B7-A03B-8EEB7F134AA6}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|f:\\trainning\\day 3 book\\bookapi\\bookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\datalayer\\entities\\bookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\bookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\datalayer\\entities\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817E254C-9C7F-49B7-A03B-8EEB7F134AA6}|ServiceLayer\\ServiceLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\servicelayer\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817E254C-9C7F-49B7-A03B-8EEB7F134AA6}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\datalayer\\migrations\\20240527073525_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20240527073525_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\datalayer\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\datalayer\\migrations\\20240526102336_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20240526102336_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|f:\\trainning\\day 3 book\\bookapi\\bookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\datalayer\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817E254C-9C7F-49B7-A03B-8EEB7F134AA6}|ServiceLayer\\ServiceLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{817E254C-9C7F-49B7-A03B-8EEB7F134AA6}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|f:\\trainning\\day 3 book\\bookapi\\bookapi\\bookapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AAC70D7A-E709-4B70-8AA6-B5F1B82232AD}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\bookapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|f:\\trainning\\day 3 book\\bookapi\\datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0A36E9-CFBE-435C-90B2-4D7DAB48C30F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240527073525_Users.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Migrations\\20240527073525_Users.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240527073525_Users.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Migrations\\20240527073525_Users.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240527073525_Users.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:35:26.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\JwtService\\JWTService.cs",
+              "RelativeDocumentMoniker": "DataLayer\\JwtService\\JWTService.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\JwtService\\JWTService.cs",
+              "RelativeToolTip": "DataLayer\\JwtService\\JWTService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:42:43.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\ServiceLayer\\LoginService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\LoginService.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\ServiceLayer\\LoginService.cs",
+              "RelativeToolTip": "ServiceLayer\\LoginService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:23:19.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\BookAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\BookAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BookAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:19:14.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\LoginRepository.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\LoginRepository.cs",
+              "RelativeToolTip": "DataLayer\\LoginRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA8wBoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:16:10.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entities\\User.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Entities\\User.cs",
+              "RelativeToolTip": "DataLayer\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:10:35.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataLayer.csproj",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\DataLayer.csproj",
+              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\DataLayer.csproj",
+              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T04:03:21.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceLayer.csproj",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayer.csproj",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeToolTip": "ServiceLayer\\ServiceLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T11:01:40.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\BookRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\BookRepository.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\BookRepository.cs",
+              "RelativeToolTip": "DataLayer\\BookRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAArwBYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:53:28.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\ServiceLayer\\BookServices.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\BookServices.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\ServiceLayer\\BookServices.cs",
+              "RelativeToolTip": "ServiceLayer\\BookServices.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAApwEAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:48:33.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:46:47.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240526102336_Initial.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Migrations\\20240526102336_Initial.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240526102336_Initial.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Migrations\\20240526102336_Initial.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240526102336_Initial.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:23:36.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\BookAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookAPI\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\BookAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T09:54:30.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\BookAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BookAPI\\appsettings.json",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\BookAPI\\appsettings.json",
+              "RelativeToolTip": "BookAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T09:30:21.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookAPI.http",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\BookAPI\\BookAPI.http",
+              "RelativeDocumentMoniker": "BookAPI\\BookAPI.http",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\BookAPI\\BookAPI.http",
+              "RelativeToolTip": "BookAPI\\BookAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-26T09:26:38.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\BookAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Controllers\\BookController.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\BookAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookAPI\\Controllers\\BookController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:52:53.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\BookAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Program.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\BookAPI\\Program.cs",
+              "RelativeToolTip": "BookAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:41:38.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Entities\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entities\\Context\\AppDbContext.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Entities\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "DataLayer\\Entities\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:38:33.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookDetail.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Entities\\BookDetail.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entities\\BookDetail.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Entities\\BookDetail.cs",
+              "RelativeToolTip": "DataLayer\\Entities\\BookDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:32:35.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Class1.cs",
+              "ToolTip": "F:\\trainning\\day 3 book\\BookAPI\\DataLayer\\Class1.cs",
+              "RelativeToolTip": "DataLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:24:37.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
